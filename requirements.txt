@@ -1,0 +1,12 @@
+# Instagram Reel Generator Requirements
+# Installieren mit: pip install -r requirements.txt
+
+# Haupt-Abhängigkeiten
+streamlit==1.29.0
+openai==1.3.0
+python-dotenv==1.0.0
+
+# Optionale Abhängigkeiten für erweiterte Features
+# pandas==2.1.3  # Für Datenanalyse (optional)
+# plotly==5.17.0  # Für Visualisierungen (optional)
+# streamlit-authenticator==0.2.3  # Für User-Auth (optional)
